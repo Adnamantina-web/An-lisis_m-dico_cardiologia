@@ -7,12 +7,12 @@
 
 <img width="897" height="507" alt="reingresos" src="https://github.com/user-attachments/assets/cf65273b-9787-460a-943a-928999d86831" />
 
-# 🫀 Análisis Médico en Cardiología  
+# Análisis Médico en Cardiología  
 **Proyecto de análisis de datos clínicos orientado a la identificación de insights generales y factores asociados a reingresos hospitalarios.**
 
 ---
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 Este proyecto fue desarrollado **durante mi proceso de formación como analista de datos**, por lo que combina ejercicios guiados, prácticas supervisadas y aportaciones propias. Aunque parte del contenido no es completamente original, el objetivo principal ha sido **aprender, aplicar y consolidar técnicas reales de análisis de datos** en un contexto clínico.
 
 El análisis se centra en:
@@ -23,7 +23,7 @@ El análisis se centra en:
 
 ---
 
-## 📂 Estructura del repositorio
+##  Estructura del repositorio
 
 ### 📁 1. SQL
 - **01_Analisis_Insights_General_Soluciones.sql**  
@@ -55,7 +55,7 @@ El análisis se centra en:
 
 ---
 
-## 🧠 Metodología
+## Metodología
 1. **Carga y exploración de datos**  
 2. **Limpieza y preparación**  
 3. **Análisis exploratorio (EDA)**  
@@ -69,7 +69,7 @@ El análisis se centra en:
 
 ---
 
-## 🚀 Cómo reproducir el análisis
+##  Cómo reproducir el análisis
 
 ### 1. Importar la base de datos
 ```sql
