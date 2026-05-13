@@ -142,5 +142,5 @@ Abrir Produccion.ipynb en Jupyter o VS Code.
 ### 4. Visualizar el dashboard
 Abrir Desarollo.pbix en Power BI Desktop.
 
-🤝 Contribuciones
+# # 🤝 Contribuciones
 Proyecto con fines formativos. Sugerencias y mejoras son bienvenidas mediante issues o pull requests.
