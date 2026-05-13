@@ -1,3 +1,12 @@
+
+
+
+
+
+<img width="985" height="549" alt="admisiones" src="https://github.com/user-attachments/assets/b94514f5-22ac-4fb1-9d2d-59a0b23e99fb" />
+
+<img width="897" height="507" alt="reingresos" src="https://github.com/user-attachments/assets/cf65273b-9787-460a-943a-928999d86831" />
+
 # 🫀 Análisis Médico en Cardiología  
 **Proyecto de análisis de datos clínicos orientado a la identificación de insights generales y factores asociados a reingresos hospitalarios.**
 
