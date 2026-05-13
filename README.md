@@ -63,9 +63,42 @@ El análisis se centra en:
 5. **Visualización y comunicación de resultados**
 
 ---
+## 📊 Informe Ejecutivo – Resultados del Análisis
 
-## 📊 Principales resultados (resumen)
-*(Pendiente de completar con los insights finales)*
+El análisis realizado sobre los datos del Servicio de Cardiología muestra una actividad asistencial estable, pero con un nivel de reingresos clínicamente relevante que impacta directamente en la carga operativa y en los costes del hospital. A continuación se resumen los hallazgos más importantes.
+
+---
+
+### 🫀 1. Actividad Asistencial – Admisiones
+
+- Se registraron **701 admisiones** en el periodo analizado.
+- La tendencia mensual es estable, con picos entre **septiembre y diciembre**.
+- El **miércoles (19.5%)** es el día con mayor volumen de admisiones.
+- La mayoría de pacientes ingresan desde **Urgencias**, con un flujo claro hacia **Alta**.
+- Se registraron **46 fallecimientos**, lo que supone una mortalidad del **7.3%**.
+- Los diagnósticos más frecuentes incluyen:
+  - **Insuficiencia cardíaca (12.8%)**
+  - **ICFER / ICFEN (≈12%)**
+  - **IRA (11.7%)**
+  - **IAMCEST / SCA (≈11%)**
+
+Estas patologías están asociadas a mayor complejidad clínica y riesgo de reingreso.
+
+---
+
+### 🔁 2. Reingresos Hospitalarios
+
+- **143 admisiones** corresponden a reingresos.
+- **129 pacientes** reingresaron al menos una vez.
+- La tasa de reingresos es del **20.4%**.
+- El **4.04%** de las altas generan un reingreso en los primeros **30 días**.
+- Los reingresos suponen **1.135 días de hospitalización**, con un coste estimado de **794.500 €**.
+- Extrapolado al año completo, los reingresos representan:
+  - **22.651 días de hospitalización**
+  - **15,86 millones de euros** en costes
+
+#🤝 Contribuciones
+Este proyecto tiene un propósito formativo, pero cualquier sugerencia o mejora es bienvenida a través de issues o pull requests.
 
 ---
 
